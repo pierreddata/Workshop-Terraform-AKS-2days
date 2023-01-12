@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
 
 env: # variables
-  RG_NAME: "RG-AKSCluster"
-  CLUSTER_NAME: "AKS-000" 
-  REGISTRY_NAME: "acrpierrc007"
+  RG_NAME: "RG-pdt-20230111"
+  CLUSTER_NAME: "AKS-000-PDT" 
+  REGISTRY_NAME: "acrstan2022pdt20230112"
   APP_NAME: "coolapi"
   IMAGE_VERSION: "1.0.0"
 
