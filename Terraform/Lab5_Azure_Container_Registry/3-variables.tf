@@ -9,7 +9,7 @@ variable "azureRegion" {
 #  Resource Group Name
 variable "resourceGroupName" {
   type    = string
-  default = "RG-AKSCluster-PDT-20230112"
+  default = "RG-pdt-20230111"
 }
 
 #  Azure Container Registry name
